@@ -65,7 +65,7 @@ then i obfuscated it using PyFuscate [worksliv.py]
 
 create company.exe
 note : for fake ransomware & clearing logs 
-drop [RECOVER-wragz12-FILES.txt] and [UpdateEdge.bat] and [example.py]
+it drops [UpdateEdge.bat] and [example.py]
 example.py which configured the ransomware, cleared logs (i obfuscated it using PyFuscate) work after 60 sec
 
 [03] --------------------------------------------------------------------------------------------
